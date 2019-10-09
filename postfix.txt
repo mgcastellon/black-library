@@ -1,0 +1,18 @@
+####################
+## deferred queue ##
+####################
+
+qshape -s deferred | head
+
+##################
+## normal queue ##
+##################
+
+qshape | head
+
+##################
+
+##################
+
+postqueue -p
+mailq
