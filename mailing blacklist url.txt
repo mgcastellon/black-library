@@ -1,0 +1,4 @@
+CHECK if IPs are in a blacklist list
+
+https://www.ers.trendmicro.com/reputations
+https://mxtoolbox.com/blacklists.aspx
