@@ -6,6 +6,8 @@ Current content:
 
 * [Certificates](https://github.com/mgcastellon/black-library/tree/master/Certificates "Certificates")
 
+* [Elasticsearch](https://github.com/mgcastellon/black-library/tree/master/Elasticsearch "Elasticsearch")
+
 * [Mysql](https://github.com/mgcastellon/black-library/tree/master/Mysql "Mysql")
 
 * [Oracle](https://github.com/mgcastellon/black-library/tree/master/Oracle "Oracle")
