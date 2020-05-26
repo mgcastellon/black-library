@@ -4,4 +4,4 @@ Disclaimer: This is a draft for internal use. Learning and preparing ITIL4 certi
 
 Current content:
 
-* [Introduction](https://github.com/mgcastellon/black-library/tree/master/ITIL4/01-Introduction "Introduction")
+* [Introduction](https://github.com/mgcastellon/black-library/tree/master/ITIL4/01-Introduction.md "Introduction")
